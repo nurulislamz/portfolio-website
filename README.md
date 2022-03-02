@@ -1,2 +1,2 @@
 # portfolio-website
-Portfolio website
+Static Portfolio website

@@ -1,0 +1,32 @@
+What does the initial site need
+
+THE W
+
+
+Requirements
+- Display a W
+- Front end only
+- The Components of the W is made of tiles which should flip and move to the next tile
+
+Basics
+- 10x10 tile box 
+- binary state - empty or tile
+- connected tiles should change colours/flip
+
+High Level Design
+
+Tile box
+- 10x10 box containing tiles
+-- List of Mapped Characters from A-Z full and not to full.
+--  
+- Recognise Tiles close to them (left right or up down)
+- Colour them or Flip them
+- LinkedList to remember last item flipped
+    -- Maybe even build a linked list based on tiles around them.
+
+Enum TileType: Empty and Full
+
+Tile Class
+- Ability to change colour 
+- Ability to flip
+- Ability to be bold

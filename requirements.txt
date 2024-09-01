@@ -1,0 +1,9 @@
+1) make a website with a W made out of squares, that periodically changes colours. 
+
+2) do that for the whole welcome to Mohammed website
+
+3) https://brittanychiang.com/ 
+    clone this site
+
+4) make it colourful - lego style 
+    
